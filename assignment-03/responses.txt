@@ -1,0 +1,15 @@
+Provide three websites that you enjoy visiting?
+
+The three websites I enjoy visiting the most are YouTube, Buzzfeed, and Fandom.
+
+What is the relationship between an IP address and the DNS?
+
+An Internet Protocol (IP) address is an address made up of numbers that is assigned to a computer that helps identify it in a network. The Domain Name System (DNS) converts the domain name into an associated IP address.
+
+What is a cookie?
+
+A cookie is a file saved on your computer. It's basically an ID. It's a number that helps a website identify you. Cookie data usually includes your name and other login information for the website.
+
+List three essential parts of a URL.
+
+The protocol, domain name, and path. 
