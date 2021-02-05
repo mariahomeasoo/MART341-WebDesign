@@ -3,4 +3,4 @@ There are different components of a browser. The first is the user interface. Th
 
 A markup language is a computer language that dictates a web page's architecture. A browser is a combination of text, design, and interactivity. A widely used language is Hypertext Markup Language or HTML. HTML is the foundation of a page's content and render's content and page structure.
 
-! [Screenshot](./images/screenshot.png)
+![Screenshot](./images/screenshot.png)
