@@ -1,0 +1,6 @@
+
+Divs let web developers group other elements together by providing structure without content or styling. This provides structural clarity and makes it easier to identify element groups. Like ids, the class attribute is an identifier and selector value for elements. Classes group similar types of elements together allowing for easy styling. Technically called the "global identifier". This attribute is a unique identifier to a specific element that dictate the style and look of webpages. It follows the idea of identification labels. Spans serve to identify or group content together that requires additional organization or styling.
+
+Advantages of using YouTube and Vimeo to host videos include handles compatibility, encoding, and etc. that are necessary for the media to play on different browsers, can host large high quality files, and is ideal for video and audio files. Disadvantages of using YouTube and Vimeo to host videos include any unlicensed materials used without permission can be reported, may be expensive to upgrade services and storage, and is not ideal for image files.
+
+This week I didn't run into any challenges. I thought this week was pretty straightforward. I was a little confused about divs, ids, spans, and classes at first, but the more I experimented with them I felt a bit better. This week was probably my favorite because of the homework. 
